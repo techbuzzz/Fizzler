@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 15.0.26124.0
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8FC1F69B-FAFC-484C-984B-78FA7E224BCB}"
 	ProjectSection(SolutionItems) = preProject
 		build.cmd = build.cmd
@@ -96,6 +98,6 @@ Global
 		{CA756450-AB7A-4FB0-97C4-35B8FBE89021} = {C8AAC462-1BD2-4CE4-B480-47D5610B608C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		VisualSVNWorkingCopyRoot = 
+		SolutionGuid = {5312DB20-C237-4BCC-82CD-FE82768BC363}
 	EndGlobalSection
 EndGlobal
